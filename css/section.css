@@ -1,0 +1,14 @@
+.section {
+    padding: 5px 0;
+}
+
+.section__header {
+    color: #86320b;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.section__tableContainer {
+    overflow-x: auto;
+}

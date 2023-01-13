@@ -1,0 +1,26 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    background-color: #f1f1f1;
+    max-width: 1033.4px;
+    padding: 0 20px;
+    margin: auto;
+    text-align: justify;
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5;
+}
+
+.body--special {
+    background-color: #cdcaca;
+}
+
+.image {
+    max-width: 100%;
+    box-shadow: 1px 1px 5px 0px #7A7A7A;
+}

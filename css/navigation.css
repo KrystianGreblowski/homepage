@@ -1,0 +1,27 @@
+.navigation {
+    margin: 20px 0;
+    background-color: #ddd;
+    box-shadow: 1px 1px 5px 0px #7A7A7A;
+}
+
+.navigation__list {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navigation__item {
+    float: left;
+}
+
+.navigation__link {
+    display: block;
+    text-decoration: none;
+    color: #86320b;
+    font-size: 20px;
+    padding: 8px 47px;
+}
+
+.navigation__link:hover {
+    background-color: #ccc;
+}
