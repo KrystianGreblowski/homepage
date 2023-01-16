@@ -9,6 +9,10 @@
     text-align: center;
 }
 
+.section__paragraph {
+    text-indent: 45px;
+}
+
 .section__tableContainer {
     overflow-x: auto;
 }
