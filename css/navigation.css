@@ -7,21 +7,22 @@
 .navigation__list {
     list-style-type: none;
     padding: 0;
-    overflow: hidden;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-content: space-around;
 }
 
 .navigation__item {
-    float: left;
+    padding: 8px 20px;
 }
 
 .navigation__link {
-    display: block;
     text-decoration: none;
     color: #86320b;
     font-size: 20px;
-    padding: 8px 47px;
 }
 
 .navigation__link:hover {
-    background-color: #ccc;
+    color:hsl(19, 85%, 45%)
 }
