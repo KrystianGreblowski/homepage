@@ -1,6 +1,6 @@
 # Homepage
 
-It's the first website I created as part of a project for the YouCode course.
+It's a first website I created as part of a project for the YouCode course.
 It's a short story about me when I lived in the Netherlands.
 
 ## Demo
