@@ -12,4 +12,4 @@ It's a short story about me when I lived in the Netherlands.
 ## Technologies
 - HTML
 - CSS
-- JavaScript (ES6+)
+- JavaScript(ES6+)
