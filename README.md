@@ -7,6 +7,8 @@ It's a short story about me when I lived in the Netherlands.
 
 [homepage](https://krystiangreblowski.github.io/homepage/)
 
+## Preview
+
 ![homepage demo](images/demo.gif)
 
 ## Technologies
