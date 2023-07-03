@@ -3,6 +3,7 @@
 ## Description
 
 It's a first website I created as part of a project for the YouCode Frontend Developer course.
+
 It's a short story about me when I lived in the Netherlands.
 
 ## Demo
