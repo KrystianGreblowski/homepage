@@ -1,15 +1,20 @@
 # Homepage
 
-It's the first website I created as part of a project for the YouCode course.
+## Description
+
+It's a first website I created as part of a project for the YouCode Frontend Developer course.
+
 It's a short story about me when I lived in the Netherlands.
 
 ## Demo
 
-[homepage](https://krystiangreblowski.github.io/homepage/)
+[Homepage](https://krystiangreblowski.github.io/homepage/)
+
+## Preview
 
 ![homepage demo](images/demo.gif)
 
 ## Technologies
 - HTML
 - CSS
-- JavaScript (ES6+)
+- JavaScript(ES6+)
